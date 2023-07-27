@@ -1,0 +1,1 @@
+from latest_fake_useragent.fake import LatestFakeUserAgent, UserAgent
